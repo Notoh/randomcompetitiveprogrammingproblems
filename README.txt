@@ -1,7 +1,6 @@
 random practice problems for competitive programming i did on dmoj.ca
 
-don't judge the formatting too harshly, this was all done in notepad (not even ++ omegalul) on a laptop while distracting myself from unimportant things like classes that i don't need to get into university
- and getting a girlfriend
+don't judge the formatting too harshly, this was all done in notepad (not even ++ omegalul) on a laptop while distracting myself from unimportant things like classes that i don't need to get into university and getting a girlfriend
 
 why did i decide to do a certain problem and not some other one? idk
 
